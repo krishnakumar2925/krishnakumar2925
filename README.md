@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishnakumar2925
-- 👀 I’m interested in interesting job role
-- 🌱 I’m currently learning data analysis
+- 👀 I’m interested in Automation testing 
+- 🌱 I’m currently learning different testing tools and 
 - 💞️ I’m looking to collaborate on partner
 - 📫 How to reach me ?... mail me krishnakumar2925@gamil.com
 
